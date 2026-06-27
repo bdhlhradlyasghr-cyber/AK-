@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "An advanced everyday calculator with custom layouts, mathematical operations parsing, scientific features, and secure historical record saving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
